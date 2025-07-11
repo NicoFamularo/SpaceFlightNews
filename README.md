@@ -40,7 +40,7 @@
 ---
 
 **Autor:** Nico Famularo  
-**GitHub:** [tu-usuario](https://github.com/NicoFamularo)
+**GitHub:** [Nico](https://github.com/NicoFamularo)
 
 ---
 
