@@ -22,7 +22,7 @@
 
 ## 🔌 API
 
-- [Space Flight News API](https://api.spaceflightnewsapi.net/v4/articles/)
+- [Space Flight News API](https://api.spaceflightnewsapi.net/v4/docs/)
 - Paginación, búsqueda y detalles de artículos espaciales.
 
 ## ✨ Componentes Reutilizables
